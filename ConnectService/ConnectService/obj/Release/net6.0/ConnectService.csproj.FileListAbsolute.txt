@@ -1,0 +1,54 @@
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\appsettings.Development.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\appsettings.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.exe
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.deps.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.runtimeconfig.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ref\ConnectService.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.pdb
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.AssemblyReference.cache
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.GeneratedMSBuildEditorConfig.editorconfig
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.AssemblyInfoInputs.cache
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.AssemblyInfo.cs
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.CoreCompileInputs.cache
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.MvcApplicationPartsAssemblyInfo.cs
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.MvcApplicationPartsAssemblyInfo.cache
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\staticwebassets.build.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\staticwebassets.development.json
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\scopedcss\bundle\ConnectService.styles.css
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.CopyComplete
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ref\ConnectService.dll
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.pdb
+C:\User\Development\SI Micro Services\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.genruntimeconfig.cache
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\appsettings.Development.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\appsettings.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.exe
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.deps.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.runtimeconfig.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ref\ConnectService.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\ConnectService.pdb
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.AssemblyReference.cache
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.GeneratedMSBuildEditorConfig.editorconfig
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.AssemblyInfoInputs.cache
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.AssemblyInfo.cs
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.CoreCompileInputs.cache
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.MvcApplicationPartsAssemblyInfo.cs
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.MvcApplicationPartsAssemblyInfo.cache
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\staticwebassets.build.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\staticwebassets.development.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\scopedcss\bundle\ConnectService.styles.css
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.csproj.CopyComplete
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ref\ConnectService.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.pdb
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\ConnectService.genruntimeconfig.cache

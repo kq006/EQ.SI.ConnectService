@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b55b7b66-7c9f-4f51-b12b-ff5dd89d32b1": {
+      "ProjectGuid": "b55b7b66-7c9f-4f51-b12b-ff5dd89d32b1",
+      "DisplayName": "ConnectService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

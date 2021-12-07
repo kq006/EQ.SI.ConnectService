@@ -1,0 +1,11 @@
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\ConnectService.exe
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\ConnectService.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\ConnectService.deps.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\ConnectService.runtimeconfig.json
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\ConnectService.pdb
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\User\Development\SiMicroServices\ConnectServiceSpike\ConnectService\ConnectService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
